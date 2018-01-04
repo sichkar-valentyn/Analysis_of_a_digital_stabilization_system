@@ -1,4 +1,14 @@
-% Analysis of a digital stabilization system
+% File: Analysis_of_a_digital_stabilization_system.m
+% Description: Analysis of a digital stabilization system
+% Environment: Matlab
+%
+% MIT License
+% Copyright (c) 2017 Valentyn N Sichkar
+% github.com/sichkar-valentyn
+%
+% Reference to:
+% [1] Valentyn N Sichkar. Analysis of a digital stabilization system in Matlab using Simulink // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Analysis_of_a_digital_stabilization_system (date of access: XX.XX.XXXX)
+
 close all;
 DigitalStabSystem % Simulink-model
 Ra=10; Ta=0.01; Ke=0.05;Km = Ke; J=0.5e-5;
