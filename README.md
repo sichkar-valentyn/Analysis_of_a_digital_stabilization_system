@@ -1,9 +1,6 @@
 # Analysis of a digital stabilization system
 Analysis of a digital stabilization system in Matlab using Simulink
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Analysis of a digital stabilization system in Matlab using Simulink // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Analysis_of_a_digital_stabilization_system (date of access: XX.XX.XXXX)
 
